@@ -42,5 +42,5 @@ Thank you for exploring our Agrawal Store Annual Report 2022! For further inquir
 ![Agrawal Sales Analysis img](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel/assets/140696340/ec303e3b-32e6-4851-8c9c-f1ed89171ddd)
 
 **Project Snapshot:**
-![Agrawal Store Annual Report 2022](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
+[Agrawal Store Annual Report 2022](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
 
