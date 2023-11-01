@@ -1,4 +1,5 @@
 # Agrawal Store Annual Report 2022
+[GitHub Repository](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
 
 Welcome to the Agrawal Store Annual Report 2022 GitHub repository! This project showcases a detailed analysis and visualization of Agrawal Store's sales data for the year 2022, conducted using Excel. The objective is to provide actionable insights to empower Vrinda Store's business strategies in 2023.
 
@@ -41,5 +42,5 @@ Thank you for exploring our Agrawal Store Annual Report 2022! For further inquir
 ![Agrawal Sales Analysis img](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel/assets/140696340/ec303e3b-32e6-4851-8c9c-f1ed89171ddd)
 
 **Project Snapshot:**
-![Agrawal Store Annual Report 2022]
+![Agrawal Store Annual Report 2022](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
 
