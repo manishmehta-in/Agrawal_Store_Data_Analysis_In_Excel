@@ -7,6 +7,11 @@ Welcome to the Agrawal Store Annual Report 2022 GitHub repository! This project 
 
 This analysis explores crucial facets of Agrawal Store's sales performance, delving into areas such as comparative sales and orders, gender-based purchasing behavior, regional impact, and channel effectiveness. The project focuses on extracting meaningful patterns from the data to inform data-driven decisions.
 
+![Agrawal Sales Analysis img](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel/assets/140696340/ec303e3b-32e6-4851-8c9c-f1ed89171ddd)
+
+**Project Snapshot:**
+[Agrawal Store Annual Report 2022](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
+
 ### Key Highlights
 
 - **Sales and Orders Comparison**: Visual representation comparing sales and orders trends.
@@ -39,8 +44,5 @@ Based on our analysis, we propose the following strategies for Vrinda Store's gr
 Thank you for exploring our Agrawal Store Annual Report 2022! For further inquiries or collaboration opportunities, please feel free to contact us. We are committed to providing valuable data-driven insights to enhance your business strategies.
 
 ---
-![Agrawal Sales Analysis img](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel/assets/140696340/ec303e3b-32e6-4851-8c9c-f1ed89171ddd)
 
-**Project Snapshot:**
-[Agrawal Store Annual Report 2022](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel)
 
